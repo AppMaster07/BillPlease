@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="no.Pax">Num of Pax</string>
+    <string name="svsDisabled">SVS Off</string>
+    <string name="svsEnabled">SVS On</string>
+    <string name="gstDisabled">GST Off</string>
+    <string name="gstEnabled">GST On</string>
+    <string name="tbSplitIt">SPLIT</string>
+    <string name="tbResetIt">RESET</string>
+    <string name="textViewTotal">Total Bill: $</string>
+    <string name="textViewEach">Each Pays: $</string>
+    <string name="total">hii</string>
+    <string name="each">hyl</string>
+</resources>
